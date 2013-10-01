@@ -12,7 +12,7 @@ III) Descriere program:
   nu este un numar valid, va aparea un mesaj de atentionare. 
   In cazul in  care numarul este valid atunci vor fi mentionate functiile aplicate valorii
   respective iar pe linia urmatoare rezultatul acestora.
-  La final utilizatorul este intrebat daca vrea sa introduca o noua valoarea pt a  fi 
+  La final, utilizatorul este intrebat daca vrea sa introduca o noua valoarea pt a  fi 
   testata.
   
 IV) Lista functiilor:
