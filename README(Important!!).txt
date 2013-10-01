@@ -17,8 +17,8 @@ III) Descriere program:
   
 IV) Lista functiilor:
  * SQUARE - returneaza patratul lui i
- * nFACT - returneaza i factrial (i!)
- * nSUM - returneaza rezultatul sumei 1+2+3+..+i
+ * nFACT - returneaza i factrial (i!); returneaza -1 daca i<0
+ * nSUM - returneaza rezultatul sumei 1+2+3+..+i;returneza -1 daca i<0
  * ABS- returneaza modulul lui i
  * ADD_FIVE - returneaza rezultatul expresiei i+5
  * SUB_NINE - returneaza i-9
