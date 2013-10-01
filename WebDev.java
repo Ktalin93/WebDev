@@ -1,4 +1,3 @@
-
 /* Clasa Colectie contine urmatoarele functii:
  * SQUARE - returneaza patratul lui i
  * nFACT - returneaza i factrial (i!)
@@ -19,10 +18,10 @@ public class WebDev {
 		int i=Integer.parseInt(bufferedReader.readLine());
 		System.out.println("Urmatorul set de functii se va aplicaca valorii i");
 		System.out.println("I) [ nFACT , ADD_FIVE, MULTIPLY_TEN, nSUM]");
-	    System.out.println("[ "+ Colectie.nFact(i)+" , "+ Colectie.add_five(i) + " , "
+	    	System.out.println("[ "+ Colectie.nFact(i)+" , "+ Colectie.add_five(i) + " , "
 					+ Colectie.mult_ten(i)+ " , "+ Colectie.nSum(i)+"]");
 		System.out.println("II) [SQUARE , ABS]");
-	    System.out.println("[ "+ Colectie.square(i)+" , "+ Colectie.abs(i) +"]");
+	    	System.out.println("[ "+ Colectie.square(i)+" , "+ Colectie.abs(i) +"]");
 		System.out.println("III) [SUB_NINE , DIV_THREE]");
 		System.out.println("[ "+Colectie.sub_nine(i) + ","+ Colectie.div_three(i) +"]");
 
