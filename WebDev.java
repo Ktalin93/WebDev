@@ -42,7 +42,7 @@ public class WebDev {
 				System.out.println("Nu ati introdus un numar !");
 			} catch (IOException e) {
 				e.printStackTrace();
-			}}  while(rep==true);
+			}}  while(rep);
 		
 
 	}
